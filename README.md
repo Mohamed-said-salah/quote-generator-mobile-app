@@ -1,4 +1,4 @@
-# quote-generator-mobile-app
+# Quote Generator App 📱
 Light app with Modern UI for generating wisdom meaningful quotes, with the ability for keeping favored ones saved and search for them.
 
 # Languages and frameworks 📑
