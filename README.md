@@ -1,4 +1,25 @@
 # quote-generator-mobile-app
+Light app with Modern UI for generating wisdom meaningful quotes, with the ability for keeping favored ones saved and search for them.
+
+# Languages and frameworks 📑
+ * Flutter
+ * Dart
+ * Apis
+   
+## Packages 🔎
+ * http
+ * shared_prefrences
+
+## Features 🥇
+ * Fetch: Contet (Quotes) from internet.
+ * Cache: favorite items
+ * Search: Find quotes that contains content matches what you type in search field
+ * Fonts: Use nice speicial fonts suitable to modern ui so keep the apps looks more better.
+
+## IDEs 💻
+ * VS code
+ * Android Studio
+
 ## Try the App 📱
  * Get the apk of the app from [**Drive**](https://drive.google.com/file/d/1RlOTENpvQD1q3EzaTattEokzMvNtfUQa/view?usp=sharing)
 
