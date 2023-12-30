@@ -22,4 +22,4 @@ That's all, fork the repository and start working on it.
 Best of luck.
 
 ## Task Done ✅
-I done the intern2grow task, you can see the result [**ApkFile**](https://drive.google.com/file/d/1RlOTENpvQD1q3EzaTattEokzMvNtfUQa/view?usp=drive_link) on GoogleDrive.
+I done the intern2grow task, check the result [**ApkFile**](https://drive.google.com/file/d/1RlOTENpvQD1q3EzaTattEokzMvNtfUQa/view?usp=drive_link) on GoogleDrive.
