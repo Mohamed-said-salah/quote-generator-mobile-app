@@ -10,10 +10,10 @@ https://github.com/lukePeavey/quotable
 
 So make sure that you have covered all the following tasks:
 
-- design home and favorite quotes screens.
-- implement navigation between screens.
-- implement generate quote, add to favorite, remove from favorite and search functionalities.
-- store IDs of favorite quotes locally on user device.
+-   design home and favorite quotes screens.
+-   implement navigation between screens.
+-   implement generate quote, add to favorite, remove from favorite and search functionalities.
+-   store IDs of favorite quotes locally on user device.
 
 That's all, fork the repository and start working on it.
 
