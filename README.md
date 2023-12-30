@@ -1,5 +1,18 @@
-https://drive.google.com/file/d/1RlOTENpvQD1q3EzaTattEokzMvNtfUQa/view?usp=sharing
 # quote-generator-mobile-app
+## Try the App 📱
+ * Get the apk of the app from [**Drive**](https://drive.google.com/file/d/1RlOTENpvQD1q3EzaTattEokzMvNtfUQa/view?usp=sharing)
+
+## Setup 💽
+ * clone the repository and run the app on any plugged ios or android Emulator or physical device.
+
+## ScreenShots 🖼️
+<div align='center'>
+  <img height="460px" src="https://github.com/Mohamed-said-salah/auth-mobile-app/blob/main/auth_mobile_app_screenshots/Log%20in%20screen-portrait.png?raw=true">
+  <img height="460px" src="https://github.com/Mohamed-said-salah/auth-mobile-app/blob/main/auth_mobile_app_screenshots/Profile%20screen-portrait-robot.png?raw=true">
+  <img height="460px" src="https://github.com/Mohamed-said-salah/auth-mobile-app/blob/main/auth_mobile_app_screenshots/Register%20screen-portrait.png?raw=true">
+<hr/>
+</div>
+
 
 ## What was asked?
 Hello there, your task is to convert the following figma design into a mobile app:
@@ -22,4 +35,4 @@ That's all, fork the repository and start working on it.
 Best of luck.
 
 ## Task Done ✅
-I done the intern2grow task, check the result [**ApkFile**](https://drive.google.com/file/d/1RlOTENpvQD1q3EzaTattEokzMvNtfUQa/view?usp=drive_link) on GoogleDrive.
+I done the intern2grow task, check the result [**ApkFile**](https://drive.google.com/file/d/1RlOTENpvQD1q3EzaTattEokzMvNtfUQa/view?usp=sharing) on GoogleDrive.
