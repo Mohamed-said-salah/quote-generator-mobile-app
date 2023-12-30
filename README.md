@@ -30,7 +30,7 @@ Light app with Modern UI for generating wisdom meaningful quotes, with the abili
 <div align='center'>
   <img height="460px" src="https://github.com/Mohamed-said-salah/auth-mobile-app/blob/main/auth_mobile_app_screenshots/Log%20in%20screen-portrait.png?raw=true">
   <img height="460px" src="https://github.com/Mohamed-said-salah/auth-mobile-app/blob/main/auth_mobile_app_screenshots/Profile%20screen-portrait-robot.png?raw=true">
-  <img height="460px" src="https://github.com/Mohamed-said-salah/auth-mobile-app/blob/main/auth_mobile_app_screenshots/Register%20screen-portrait.png?raw=true">
+  <img height="460px" src="https://github.com/Mohamed-said-salah/quote-generator-mobile-app/blob/main/quote_generator_screen_shots/Favorite%20screen%20while%20using%20search-portrait.png?raw=true">
 <hr/>
 </div>
 
