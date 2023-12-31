@@ -20,7 +20,7 @@ Light app with Modern UI for generating wisdom meaningful quotes, with the abili
  * VS code
  * Android Studio
 
-## Try the App 📱
+## Get the App 📱
  * Get the apk of the app from [**Drive**](https://drive.google.com/file/d/1RlOTENpvQD1q3EzaTattEokzMvNtfUQa/view?usp=sharing)
 
 ## Setup 💽
